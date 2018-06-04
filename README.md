@@ -14,10 +14,10 @@ Encontrar el arreglo resultante (arreglo3) que permita obtener el promedio de lo
 
 Ejemplo:
 arreglo3[0] = arreglo1[0]/arreglo[0]
-...
-arreglo3[n] = arreglo1[n]/arreglo[n]
 
-Presentar el siguiente reporte
+...
+
+arreglo3[n] = arreglo1[n]/arreglo[n]
 
 
 Presentar el siguiente reporte y finalmente encontrar el promedio del arreglo3
